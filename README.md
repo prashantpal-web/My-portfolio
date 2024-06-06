@@ -6,6 +6,6 @@
 ## Description
 This is a Javascript based personal porfolio website template. 
 ## Contributors
-## <a href="https://github.com/Nagsenwaghmare">Nagsenwaghmare</a>
+## <a href="https://github.com/prashantpal-web">Prashnat Pal</a>
 
 
