@@ -1,4 +1,4 @@
-![My own Portfolio Website](https://github.com/Nagsenwaghmare/nagsen.github.io/blob/master/images/Nagsen%20portfolio%20website.png)
+![My own Portfolio Website](https://prashantpal-web.github.io/My-portfolio/images/image.png)
 
 ## <a href=" https://prashantpal-web.github.io/My-portfolio/">LIVE DEMO</a>
 
